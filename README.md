@@ -1,2 +1,2 @@
-# umap_talk
-Here's a short talk I gave at the Fort Collins Data Science Meetup about UMAP
+# UMAP Talk
+Here are the materials from a short talk I gave at the Fort Collins Data Science Meetup about UMAP
